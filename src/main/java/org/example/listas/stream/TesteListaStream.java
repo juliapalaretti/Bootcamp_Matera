@@ -5,7 +5,7 @@ import java.util.List;
 
 public class TesteListaStream {
     public static void main(String[] args) {
-        List<String> contas = new ArrayList();
+        List<String> contas = new ArrayList<>();
 
         contas.add("Conta Poupança");
         contas.add("Conta Corrente");
